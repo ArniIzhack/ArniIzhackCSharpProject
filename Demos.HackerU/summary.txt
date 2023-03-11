@@ -1,0 +1,81 @@
+﻿
+i'm at lesson 4 (5.2) - done
+
+c# basic
+	lesson 1
+	1. app hirarchy - solution { project { cs file { namespaces { classes { methods }}}}}.
+	2. the app will run the methods in the main class.
+	3. class can call methodes from another classes, from it's namespace or from another namespaces.
+	3.1. when class call for method from another class we need to call the class and then the methode.
+	3.2. when class call for method from another namespace we need to call the namespace and before we call the class.
+	3.2.1. when class call for method from another namespace it is recomended to call the namespace at the top of the cade with 'using'.
+
+	  -   lesson 01
+lesson 2
+- i dont feel like i need to sumerise it, i will just write what we went over.
+1. decler string and bool variables, and give them value.
+2. concate strings.
+3. isNullOrEmty method.
+4. how to return valur from method.
+5. consitions and validation.
+6. recive input from the user using.
+7. print to the console.
+8. toUpper and toLower.  -   lesson 02
+lesson 3
+1. common types
+2. github
+3. arrays
+4. for loops
+5. recive int from user
+6. new class in the soloution
+7. orgenize the code, the program fill will call a Run methode and the Run methode will call the rest of the methodes and actions
+8. this sum is not good, sould be more detailes with evreything that is new to me, not only headlines.  -   lesson 03
+lesson 4 
+
+
+
+
+
+
+
+shortcuts
+
+	Cntrl+f5 – run application (non debug).
+	f5 – run application (in debug).
+	f10 - when in debug mode, will go over the code line by line.
+	f11 - when in debug mode, will go to the method code.
+	cntrl+k+d - orgenize visuality
+	cntrl+shift+b - build bin folder with exe file that will execute the ap
+	
+	-   shortcuts
+	
+
+
+
+
+	kama od?
+	c# basic
+	lesson 4 - 1.2
+	lesson 5 - 5.2
+	lesson 6 - 8.2
+	lesson 7 - 12.2
+	lesson 8 - 15.2
+	lesson 9 - 19.2
+
+	c# oop
+	lesson 1 - 22.2
+	lesson 2 - 26.2
+	lesson 3 - 1.3
+	lesson 4 - 5.3
+
+	lesson 5 - 8.3 - cancled
+	lesson 6 - 12.3
+	lesson 7 - 15.3
+
+	by the time we get here i hope to cath up
+
+	lesson 
+	lesson 
+	lesson 
+	lesson 
+
